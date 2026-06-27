@@ -252,15 +252,15 @@ Screenshots are not committed yet. Add captures of the Manual, Auto, and Sensors
 screens to `docs/screenshots/` and reference them here, for example:
 
 ```
-docs/screenshots/manual.png
-docs/screenshots/auto.png
-docs/screenshots/sensors.png
+https://placehold.co/640x360/1f2937/a3e635?text=Manual+Mode
+https://placehold.co/640x360/1f2937/a3e635?text=Auto+Mode
+https://placehold.co/640x360/1f2937/a3e635?text=Sensor+Dashboard
 ```
 
 <!--
-![Manual control](docs/screenshots/manual.png)
-![Auto mode](docs/screenshots/auto.png)
-![Sensors](docs/screenshots/sensors.png)
+![Manual control](https://placehold.co/640x360/1f2937/a3e635?text=Manual+Mode)
+![Auto mode](https://placehold.co/640x360/1f2937/a3e635?text=Auto+Mode)
+![Sensors](https://placehold.co/640x360/1f2937/a3e635?text=Sensor+Dashboard)
 -->
 
 ---
